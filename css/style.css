@@ -400,3 +400,14 @@ article[role="pge-title-content"].contact-header p a:hover{color:#ED712B; text-d
 
 .commentys-form input[type="button"]:hover{ background-color:#ff5c5c}
 
+.btn-custom-orange {
+  background-color: #979696;
+  border-color: #979696;
+  color: #ffffff;
+}
+
+.btn-custom-orange:hover {
+  background-color: #ED712B; /* slightly darker for hover */
+  border-color: #ED712B;
+  color: #ffffff;
+}
